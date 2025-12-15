@@ -1,2 +1,2 @@
 # git-journey
-learning coding in github
+learning coding in github.
